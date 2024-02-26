@@ -1,0 +1,1 @@
+# classwallet-wordpress-plugin
